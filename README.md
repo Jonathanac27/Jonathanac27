@@ -47,7 +47,7 @@ Data Engineer with experience in cloud architecture and artificial intelligence 
 
 ## 🌟 Featured Projects
 - **Text-to-SQL with AWS Bedrock**: Application that enables natural language queries using multi-agent architecture
-- **DataIngest Events Ingestion System**: Real-time data pipeline using API Gateway and Kinesis
+- **DataIngest Events Ingestion System**: Real-time data pipeline using API Gateway and Kinesis that process streaming events every 2 minutes   
 - **AI Solution for Audiovisual Content**: Processing with automatic transcription, vectorization and chatbot integrated to knowledge base
 
 ## 📊 My GitHub Stats
