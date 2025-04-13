@@ -1,34 +1,34 @@
-# Olá, sou Jonathan A. Carvalho 👋
+# Hello, I'm Jonathan A. Carvalho 👋
 
-## Sobre mim
-Engenheiro de Dados com experiência em arquitetura cloud e soluções de inteligência artificial, especializado na construção de pipelines de dados escaláveis e no desenvolvimento de soluções inovadoras que transformam dados em valor de negócio. Minha expertise abrange desde a migração de ambientes tradicionais para arquiteturas modernas em nuvem (AWS) até a implementação de aplicações avançadas com tecnologias de IA generativa e processamento de linguagem natural.
+## About me
+Data Engineer with experience in cloud architecture and artificial intelligence solutions, specialized in building scalable data pipelines and developing innovative solutions that transform data into business value. My expertise ranges from migrating traditional environments to modern cloud architectures (AWS) to implementing advanced applications with generative AI technologies and natural language processing.
 
-## 🔭 Experiência Profissional
+## 🔭 Professional Experience
 
 ### SR Data Engineer | John Deere
-**Indaiatuba, São Paulo, Brasil** | Abr 2025 - Presente
-- Contribuo com o time de Data Analytics Engineering na construção e manutenção de Data Products utilizando Python, Apache Spark e Databricks
-- Colaboro com PM's na definição de requisitos para construção de Data Products
-- Criação de pipelines de CI/CD utilizando Jenkins e GitHub Actions
-- Uso Infrastructure as Code (IaC) com Terraform para gerenciar infraestrutura
-- Vou atuar na evolução da cultura de DataOps e promoção de boas práticas de desenvolvimento
+**Indaiatuba, São Paulo, Brazil** | Apr 2025 - Present
+- Contributing to the Data Analytics Engineering team in building and maintaining Data Products using Python, Apache Spark and Databricks
+- Collaborating with PMs on requirements definition for Data Products construction
+- Creating CI/CD pipelines using GitHub Actions
+- Using Infrastructure as Code (IaC) with Terraform to manage infrastructure
+- Working on the evolution of DataOps culture and promoting development best practices
 
-### PL Engenheiro de Dados | V4 Company
-**Campinas, São Paulo, Brasil** | Out 2024 - Abr 2025
-- Participei da migração de uma arquitetura de Data Warehouse para arquitetura Lakehouse moderna utilizando AWS Managed Airflow para orquestração e DBT para modelagem de dados
-- Desenvolvi sistema de ingestão via API Gateway e Kinesis com processamento de eventos a cada 2 minutos
-- Protagonizei o desenvolvimento de provas de conceito utilizando tecnologias de LLM, concebendo uma aplicação de Text-to-SQL com arquitetura multi-agente
-- Contribuí para modernização do processo CI/CD utilizando AWS CodePipeline e Terraform
-- Participei do desenvolvimento de solução de IA para processamento de conteúdo audiovisual com transcrição automática
+### PL Data Engineer | V4 Company
+**Campinas, São Paulo, Brazil** | Oct 2024 - Apr 2025
+- Participated in the migration from a Data Warehouse architecture to a modern Lakehouse architecture using AWS Managed Airflow for orchestration and DBT for data modeling
+- Developed an ingestion system via API Gateway and Kinesis that processes events every 2 minutes
+- Led the development of proof of concepts using LLM technologies, creating a Text-to-SQL application with multi-agent architecture
+- Contributed to the modernization of the CI/CD process using AWS CodePipeline and Terraform
+- Participated in the development of an AI solution for audiovisual content processing with automatic transcription
 
-### Engenheiro de Dados
-**São Leopoldo, Rio Grande do Sul, Brasil** | Nov 2023 - Set 2024
-- Extraí dados de diferentes fontes, incluindo bases de dados, APIs e arquivos
-- Preparei e limpei datasets para análise
-- Criei pipelines de ETL (Extração, Transformação e Carregamento)
-- Documentei processos, arquiteturas e códigos para facilitar manutenção
+### Data Engineer
+**São Leopoldo, Rio Grande do Sul, Brazil** | Nov 2023 - Sep 2024
+- Extracted data from different sources, including databases, APIs and files
+- Prepared and cleaned datasets for analysis
+- Created ETL (Extract, Transform and Load) pipelines
+- Documented processes, architectures and code to facilitate maintenance
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Technologies & Tools
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
@@ -37,32 +37,36 @@ Engenheiro de Dados com experiência em arquitetura cloud e soluções de inteli
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
-#![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![AWS CodePipeline](https://img.shields.io/badge/-AWS%20CodePipeline-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Redshift](https://img.shields.io/badge/-Redshift-FF0000?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Langchain](https://img.shields.io/badge/-Langchain-000000?style=flat-square&logo=chainlink&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-## 🌟 Projetos em Destaque
-- **Text-to-SQL com AWS Bedrock**: Aplicação que permite consultas em linguagem natural usando arquitetura multi-agente
-- **Sistema de Ingestão Eventos DataIngest**: Pipeline de dados em tempo real utilizando API Gateway e Kinesis
-- **Solução IA para Conteúdo Audiovisual**: Processamento com transcrição automática, vetorização e chatbot integrado
+## 🌟 Featured Projects
+- **Text-to-SQL with AWS Bedrock**: Application that enables natural language queries using multi-agent architecture
+- **DataIngest Events Ingestion System**: Real-time data pipeline using API Gateway and Kinesis
+- **AI Solution for Audiovisual Content**: Processing with automatic transcription, vectorization and chatbot integrated to knowledge base
 
-## 📊 Meus Stats no GitHub
+## 📊 My GitHub Stats
 <div align="center">
   
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Jonathanac27&show_icons=true&theme=radical)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathanac27&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jonathanac27&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jonathanac27&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathanac27&layout=compact&theme=radical&count_private=true)
+ 
   
 </div>
 
-## 🌱 Atividades
-- Explorando novas tendências tecnológicas e melhores práticas da indústria, atualmente aprofundando o conhecimento em Data Vault para o suprassumo das técnicas de modelagem em Data Lakes
-- Compartilhando conhecimento com a comunidade
-- Estudando novas tecnologias, especialmente em IA generativa e arquiteturas de dados modernas
+## 🌱 Activities
+- Exploring new technology trends and industry best practices, currently deepening knowledge in Data Vault for the pinnacle of modeling techniques in Data Lakes
+- Sharing knowledge with the community
+- Studying new technologies, especially in generative AI and modern data architectures
 
-## 📫 Como me encontrar
+## 📫 How to reach me
 <div align="center">
   
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathanac27/)](https://www.linkedin.com/in/jonathanac27/)
@@ -70,4 +74,4 @@ Engenheiro de Dados com experiência em arquitetura cloud e soluções de inteli
 </div>
 
 ---
-⭐️ Vamos inovar e trazer valor para o stakeholder juntos! 🚀
+⭐️ Let's innovate and bring value to stakeholders together! 🚀
