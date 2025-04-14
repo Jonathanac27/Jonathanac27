@@ -5,8 +5,8 @@ Data Engineer with experience in cloud architecture and artificial intelligence 
 
 ## 🔭 Professional Experience
 
-### SR Data Engineer | John Deere
-**Indaiatuba, São Paulo, Brazil** | May 2025 - Present
+### Incoming SR Data Engineer | John Deere
+**Indaiatuba, São Paulo, Brazil** | Starting May 2025
 - Contributing to the Data Analytics Engineering team in building and maintaining Data Products using Python, Apache Spark and Databricks
 - Collaborating with PMs on requirements definition for Data Products construction
 - Creating CI/CD pipelines using GitHub Actions
