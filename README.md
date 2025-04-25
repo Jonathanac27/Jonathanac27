@@ -57,6 +57,8 @@ Data Engineer with experience in cloud architecture and artificial intelligence 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jonathanac27&theme=radical)
 
+![GitHub Contributions](https://github-contribution-stats.vercel.app/api/?username=Jonathanac27)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathanac27&layout=compact&theme=radical&count_private=true)
  
   
